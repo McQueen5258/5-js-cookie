@@ -1,0 +1,17 @@
+body {
+    font-family: arial;    
+    background-color: #57A8CA;
+}
+
+img {
+    width: 100%;
+}
+
+#oreoWeight {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+span {
+    color: #74FA92;
+}
